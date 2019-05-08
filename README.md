@@ -66,7 +66,7 @@ ___
 
 ---
 **BREAK** Test to make sure everything is working as you expect!
-
+---
 
 ### Now you're on your own! Let's look back at our user story and see what we still need to do...
 
