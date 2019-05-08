@@ -65,7 +65,22 @@ ___
 
 
 ---
-Test to make sure everything is working! If you'd like to keep adding more, think of what would be cool, and add it! 
+**BREAK** Test to make sure everything is working as you expect!
+
+
+### Now you're on your own! Let's look back at our user story and see what we still need to do...
+checked   # [checkbox:checked]
+ [ ] It should be a two player game 
+ [x] Player 1 chooses a secret word
+ [x] The number of characters in the word get displayed on the screen as empty spaces
+ [x] Player 2 is given a certain number of guesses based of the length of the secret word 
+ [ ] Player 2 guesses a letter
+    [ ] The computer declares whether or not the letter is found in Player 1's secret word
+      [ ] If the letter is inside the secret word, the empty space changes to display the correct letter
+      [ ] If the letter is not inside the secret word, Player 2 loses a life
+  [ ] Player 2 keeps guessing until there are no more lives or the word is discovered
+  
+ Create a plan and execute it to complete the missing points of our user story.
 
 
 
